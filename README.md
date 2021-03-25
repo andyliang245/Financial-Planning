@@ -1,4 +1,4 @@
-# Financial-Planning
+# Financial Planning
 
 ## Part 1 - Personal Finance Planner
 
@@ -33,13 +33,18 @@
 
 #### In conclusion per our analysis above, the member have exceeded his/her goal of saving more than three times of their monthly income in their emergency fund. As mentioned above, the total portfolio value is $113,348.58, which is  $77,348.58 above members' goal of reaching $36,000 in emergency fund.
 
-
-
 ## Part 2 - Retirement Planning
+
+#### The retirement planning model here utilizes Monte Carlo simulation tool to project the portfolio performance at 30 year period. The model assumes 60% of the holdings is comprised of SPY while the remaining 40% holds AGG. The model pulls data from Alpaca API
 
 ![MC 30 Year Simulation](mc_30_sim_plot.PNG)
 ![30 Year Distribution](mc_30_dist_plot.PNG)
+![30 Year Statitistics](mc_30_stat.PNG)
+
 ![MC 5 Year Simulation](mc_5_sim_plot.PNG)
 ![5 Year Distribution](mc_5_dist_plot.PNG)
+![5 Year Statitistics](mc_5_stat.PNG)
+
 ![MC 10 Year Simulation](mc_10_sim_plot.PNG)
 ![10 Year Distribution](mc_10_dist_plot.PNG)
+![10 Year Statitistics](mc_10_stat.PNG)
